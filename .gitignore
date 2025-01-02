@@ -1,1 +1,4 @@
 *.exe
+/C#/ch02/ConsoleApp1/.vs/ConsoleApp1
+/C#/ch02/ConsoleApp1/bin
+/C#/ch02/ConsoleApp1/obj
